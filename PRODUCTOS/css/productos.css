@@ -1,0 +1,17 @@
+/* CSS Document */
+body{background:#F4EA60;}
+.container{
+	width:70%;
+	margin:0 auto;
+	background:#fff;
+}
+.container .nombre{float: right; width: 75%; }
+.container .nombre h1,.container .nombre b , a{text-transform:uppercase;}
+.container .nombre h1{font-size:250%;}
+.container img {float:left; width:%;}
+.clear{clear:both;}
+.container .links{width:100%; float: right; background:#90CF13}
+.container .links ul{list-style: none; margin: 0%; padding:0;}
+.container .links li{display:inline-block; text-align: center;}
+.container .links li a{display:inline-block; padding: 5px 15px; margin:25px; background:#A4B905; colo:#60D915; text-decoration: none;}
+.container .links li a:hover{background:#6C00C8; color:#4F596A;}
